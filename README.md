@@ -1,0 +1,1 @@
+A react based search engine that helps to search musicians ad their tracks. You can search for your famous artist. You get around a 30 second preview of the song click on another one.in order to provide all this data we have used these Spotify web API.
